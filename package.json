@@ -1,0 +1,13 @@
+{
+  "name": "if-prototype-react",
+  "version": "0.1.0",
+  "private": true,
+  "cacheDirectories": [
+    "./client/node_modules",
+    "./server/node_modules"
+  ],
+  "scripts": {
+    "postinstall": "./scripts/postinstall.sh",
+    "start": "./scripts/start.sh"
+  }
+}
